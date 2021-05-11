@@ -1,5 +1,5 @@
 function myFunction(){
-var zodiacSign = prompt ("What is your month of birth");
+    var zodiacSign = prompt ("What is your month of birth");
 
 
 switch(zodiacSign) {
